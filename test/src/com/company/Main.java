@@ -2,10 +2,11 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        unt int = one;
+        int i = 1;
+        String adasd = "Kek";
         System.out.println(adasd);
-        (if int == 1) {
-            System.out.println(adadgf);
+        if (i == 1) {
+            System.out.println(adasd);
         }
     }
 }
